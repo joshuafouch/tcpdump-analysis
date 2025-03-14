@@ -1,4 +1,4 @@
-# joshua fouch's tcpdump analysis
+# tcpdump analysis
 
 🔔 *Note:* This project was made in the Spring Semester 2024 by Joshua Fouch, the code was copied from my school git repository to add into my main GitHub account!
 
